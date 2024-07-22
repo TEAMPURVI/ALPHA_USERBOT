@@ -1,8 +1,8 @@
 # 𝗔𝗟𝗣𝗛𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧
-<h1 align="center"
 
 <p align="center">⚡️𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
- 
+
+<h1 align="center"
 ### 🚩🚩 जय बजरंग बली 🚩🚩
 <h1 align="center"
   
@@ -21,7 +21,7 @@
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAMPURVI/ALPHA_BANALL"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-## Deploy To Render 
+<p align="center"## Deploy To Render 
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TEAMPURVI/ALPHA_USERBOT)
 
