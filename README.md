@@ -1,5 +1,7 @@
 # 𝗔𝗟𝗣𝗛𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧
 <h1 align="center"
+
+<p align="center">⚡️𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
  
 ### 🚩🚩 जय बजरंग बली 🚩🚩
 <h1 align="center"
@@ -19,8 +21,16 @@
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAMPURVI/ALPHA_BANALL"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=ALPHA_USERBOT&theme=flag-india)
+## Deploy To Render 
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TEAMPURVI/ALPHA_USERBOT)
+
+## String Session
+
+<p align="center"><a href="https://t.me/king_string_sesion_bot"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=ALPHA_USERBOT&theme=flag-india)
 
 
 <h3 align="center">
