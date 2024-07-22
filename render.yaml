@@ -1,0 +1,22 @@
+services:
+  - type: web
+    plan: free
+    name: RAUSHAN
+    env: python
+    buildCommand: pip install -U -r requirements.txt
+    startCommand: python3 server.py & python3 -m RAUSHAN  
+ repo:
+https://github.com/TEAMPURVI/ALPHA_USERBOT    
+    branch: master
+    envVars:
+      - key: SUDO_USERS 
+        sync: false
+      - key: BOT_TOKEN 
+        sync: false
+      - key: OWNER_ID 
+        sync: false
+      - key: STRING_SESSION1
+        sync: false
+      - key: MONGO_URL
+        sync: false    
+    autoDeploy: false

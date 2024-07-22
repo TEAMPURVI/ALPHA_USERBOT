@@ -1,0 +1,35 @@
+{
+    "name": "𝗔𝗟𝗣𝗛𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
+    "logo": "https://telegra.ph/file/6e8bb5bb7cd3a4a534683.jpg",
+    "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
+    "keywords": ["pyrogram", "userbot"],
+    "repository": "https://github.com/TEAMPURVI/ALPHA_USERBOT",
+  "stack": "container",
+    "env": {
+        "STRING_SESSION1": {
+            "description": "fill with the Pyrogram v2 session string",
+            "required": true
+        },
+        "MONGO_URL": {
+            "description": "Fill there an mongo database from mongodb.com",
+            "required": true,
+            "value": "mongodb+srv://vivek:1234567890@cluster0.c48d8ih.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+        },
+        "SUDO_USERS": {
+            "description": "don't Change this there /id",
+            "required": true,
+            "value": "6730956183"
+        },
+        "OWNER_ID": {
+            "description": "Fill there your I'd",
+            "required": true,
+            "value": "6730956183"
+        },
+        "BOT_TOKEN": {
+            "description": "fill with your bot token get from @BotFather on telegram",
+            "required": true,
+            "value": ""
+        }
+
+    }
+  }
