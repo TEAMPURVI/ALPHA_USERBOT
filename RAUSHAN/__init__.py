@@ -12,7 +12,7 @@ clients = []
 ids = []
 
 SUDO_USERS.append(OWNER_ID)
-aiosession = ClientSession()
+async with aiohttp.ClientSession() as session:
 
 if API_ID:
    API_ID = API_ID
