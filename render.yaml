@@ -7,7 +7,7 @@ services:
     startCommand: python3 server.py & python3 -m RAUSHAN  
  repo:
 https://github.com/TEAMPURVI/ALPHA_USERBOT    
-    branch: master
+    branch: main
     envVars:
       - key: SUDO_USERS 
         sync: false
