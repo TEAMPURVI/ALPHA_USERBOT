@@ -6,19 +6,19 @@ if os.path.exists("local.env"):
     load_dotenv("local.env")
 
 
-API_ID = int(getenv("API_ID", "27079591")) #optional
-API_HASH = getenv("API_HASH", "c81ae4c3dc026ea4bf49842a8ce4a5f9") #optional
+API_ID = int(getenv("API_ID", "21631615")) #optional
+API_HASH = getenv("API_HASH", "1a3337d374a1df58be80a2a170406c1a") #optional
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7403621976").split()))
-OWNER_ID = int(getenv("OWNER_ID"))
-MONGO_URL = getenv("MONGO_URL")
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7035835569").split()))
+OWNER_ID = int(getenv("7035835569"))
+MONGO_URL = getenv("mongodb+srv://kingstiner51:Hqu8soKYi1cNzC6m@cluster0.ri34u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 ALIVE_PIC = getenv("ALIVE_PIC", 'https://telegra.ph/file/5badd2112e1e0cdf03a1f.jpg')
 ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/TEAMPURVI/ALPHA_USERBOT")
+REPO_URL = getenv("REPO_URL", "")
 BRANCH = getenv("BRANCH", "main") #don't change
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "")
