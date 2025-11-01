@@ -40,12 +40,9 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/PURVI_SUPPORT"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/PURVI_BOTS"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="(https://t.me/https://t.me/+Q25anL0Ckuk5NzM1"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="(https://t.me/https://t.me/PURVI_UPDATES"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
-
-
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝖳HE PURVI MUSIC™](https://github.com/TEAMPURVI) ғᴏʀ [𝖳HE PURVI MUSIC™](https://github.com/TEAMPURVI/PURVI_MUSIC) </b>
